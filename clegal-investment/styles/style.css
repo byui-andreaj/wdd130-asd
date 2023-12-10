@@ -38,6 +38,7 @@ header {
 
 nav a:hover {
     background-color: #2863a3;
+    opacity: 0.8;
 }
 
 
@@ -94,9 +95,10 @@ footer .social img {
     background-color: #0077b6;
     text-decoration:none;
     font-size: 18px;
-    padding: 15px 30px;
+    padding: 10px 10px;
     margin-top: 200px;
     border-radius: 5px;
+    
     
 }
 
@@ -105,7 +107,8 @@ h4 {
     color: black;
     font-family: 'Roboto', 'Brandly Hand', sans-serif;
     background-color: #0077b6;
-    padding: 50px;
+    padding: 10px;
+
 
 
 }
@@ -201,6 +204,12 @@ h2 {
     box-sizing: border-box
 }
 
+p {
+    font-size: 0.88m;
+    line-height: 2em;
+  
+    
+}
 
 
 /******************************************************************************************************************************************/

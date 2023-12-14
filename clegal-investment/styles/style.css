@@ -76,6 +76,7 @@ footer a:hover {
 
 footer p {
     font-size: 1.2em;
+    color: white;
 }
 
 footer p a:hover {
@@ -207,6 +208,8 @@ h2 {
 p {
     font-size: 0.88m;
     line-height: 2em;
+    
+    
   
     
 }
